@@ -9,6 +9,7 @@
     "ajv": "^4.7.0",
     "ajv-keywords": "^1.1.1",
     "async": "^2.1.2",
+    "css-loader": "^0.25.0",
     "enhanced-resolve": "^3.0.0",
     "interpret": "^1.0.0",
     "json-loader": "^0.5.4",
@@ -22,6 +23,7 @@
     "tapable": "~0.2.5",
     "uglify-js": "^2.8.5",
     "watchpack": "^1.2.0",
+    "webpack-md5-hash": "0.0.5",
     "webpack-sources": "^0.1.4",
     "yargs": "^6.0.0"
   },
